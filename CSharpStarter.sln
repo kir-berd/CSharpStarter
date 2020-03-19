@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_MachineMath", "CS2_Mach
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_Console", "CS2_Console\CS2_Console.csproj", "{62A20B0A-2FA8-4194-9380-22D4900FEFBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_Variables", "CS3_Variables\CS3_Variables.csproj", "{2A3E761D-D103-4DA4-9910-61B02FB34807}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS3_Variables", "CS3_Variables\CS3_Variables.csproj", "{2A3E761D-D103-4DA4-9910-61B02FB34807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4_Condition", "CS4_Condition\CS4_Condition.csproj", "{126B0564-39A9-4331-B72D-31815F319A43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2A3E761D-D103-4DA4-9910-61B02FB34807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A3E761D-D103-4DA4-9910-61B02FB34807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A3E761D-D103-4DA4-9910-61B02FB34807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126B0564-39A9-4331-B72D-31815F319A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126B0564-39A9-4331-B72D-31815F319A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126B0564-39A9-4331-B72D-31815F319A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126B0564-39A9-4331-B72D-31815F319A43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
