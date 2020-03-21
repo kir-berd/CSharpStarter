@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS3_Variables", "CS3_Variab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS4_Condition", "CS4_Condition\CS4_Condition.csproj", "{126B0564-39A9-4331-B72D-31815F319A43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS5_Logic", "CS5_Logic\CS5_Logic.csproj", "{BEF6ED82-979E-4E46-A080-F0B180202339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS5_Logic", "CS5_Logic\CS5_Logic.csproj", "{BEF6ED82-979E-4E46-A080-F0B180202339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS6_Loops", "CS6_Loops\CS6_Loops.csproj", "{9BFCFEC4-ECCA-43DB-92FF-B3AE58FE5D79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{BEF6ED82-979E-4E46-A080-F0B180202339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF6ED82-979E-4E46-A080-F0B180202339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF6ED82-979E-4E46-A080-F0B180202339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BFCFEC4-ECCA-43DB-92FF-B3AE58FE5D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFCFEC4-ECCA-43DB-92FF-B3AE58FE5D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFCFEC4-ECCA-43DB-92FF-B3AE58FE5D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFCFEC4-ECCA-43DB-92FF-B3AE58FE5D79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
